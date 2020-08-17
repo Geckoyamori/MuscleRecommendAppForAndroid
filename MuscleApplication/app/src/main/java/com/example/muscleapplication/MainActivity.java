@@ -118,5 +118,5 @@ public class MainActivity extends AppCompatActivity {
     }
 
     // コミットの確認１
-
+    // koredeiinoka
 }
