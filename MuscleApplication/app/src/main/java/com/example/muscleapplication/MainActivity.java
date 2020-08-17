@@ -117,4 +117,6 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
+    // コミットの確認１
+
 }
