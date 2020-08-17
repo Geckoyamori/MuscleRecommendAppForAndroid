@@ -118,5 +118,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     // コミットの確認１
+    // コミットの確認２
 
 }
