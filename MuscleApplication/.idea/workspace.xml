@@ -9,7 +9,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9a5966c-210c-4453-8296-a98a7645ab64" name="Default Changelist" comment="" />
+    <list default="true" id="e9a5966c-210c-4453-8296-a98a7645ab64" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,8 +55,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
-    <property name="memory.settings.postsync.last.time.stamp" value="1597657268350" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1598006958434" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.1942113197">
@@ -132,7 +134,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="48c09dea-5a7f-403e-8ee1-5a5f708aee4c" name="Default Changelist" comment="" />
+      <changelist id="e9a5966c-210c-4453-8296-a98a7645ab64" name="Default Changelist" comment="" />
       <created>1597062608467</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -155,6 +157,10 @@
     <state x="1050" y="245" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1031@0.23.1792.1031" timestamp="1597221840923" />
     <state x="1050" y="245" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1033@0.23.1792.1033" timestamp="1597237832512" />
     <state x="1050" y="245" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1034@0.23.1792.1034" timestamp="1597110685201" />
+    <state x="548" y="265" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598009168059">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="548" y="265" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.975@0.23.1680.975" timestamp="1598009168059" />
     <state x="838" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597207710301">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
@@ -212,6 +218,10 @@
       <screen x="0" y="23" width="1792" height="1033" />
     </state>
     <state width="1068" height="330" key="GridCell.Tab.1.right/0.23.1792.1033@0.23.1792.1033" timestamp="1597131142623" />
+    <state x="361" y="169" key="SettingsEditor" timestamp="1598009793598">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="361" y="169" key="SettingsEditor/0.23.1680.975@0.23.1680.975" timestamp="1598009793598" />
     <state x="1014" y="344" key="chooseDestDirectoryDialog" timestamp="1597233004182">
       <screen x="0" y="23" width="1792" height="1033" />
     </state>
@@ -220,11 +230,16 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="416" y="145" width="1200" height="735" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1680.975@0.23.1680.975" timestamp="1597659263739" />
-    <state x="799" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1597657343102">
+    <state x="799" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1600577809646">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="799" y="339" key="com.intellij.ide.util.TipDialog/0.23.1680.975@0.23.1680.975" timestamp="1597657343102" />
+    <state x="799" y="337" key="com.intellij.ide.util.TipDialog/0.23.1680.969@0.23.1680.969" timestamp="1598199283161" />
+    <state x="799" y="339" key="com.intellij.ide.util.TipDialog/0.23.1680.975@0.23.1680.975" timestamp="1600577809646" />
     <state x="852" y="358" key="com.intellij.ide.util.TipDialog/0.23.1792.1033@0.23.1792.1033" timestamp="1597107664956" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1598009150545">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1680.975@0.23.1680.975" timestamp="1598009150545" />
     <state x="868" y="250" width="670" height="675" key="search.everywhere.popup" timestamp="1597147065351">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
